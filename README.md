@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @retromanc3r  
+# 👋 Hi, I am @retromanc3r.
 
-I'm a creative security researcher and low-level programmer with a strong interest in cryptography, firmware development, and hardware hacking. I enjoy working with microcontrollers, designing secure systems, and optimizing code for performance and efficiency.  
+Think of me as a creative security researcher and low-level programmer with a strong interest in cryptography, firmware development, reverse engineering, and general hardware hacking. I enjoy working with microcontrollers, designing secure systems, and optimizing code for performance and efficiency.  
 
 ## 👀 I’m interested in  
 - Embedded systems and firmware development  
