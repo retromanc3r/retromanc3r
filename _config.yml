@@ -1,0 +1,15 @@
+title: Retromanc3r's Projects
+description: A showcase of embedded systems, cryptography, and hardware hacking projects.
+remote_theme: "dracula/gh-pages"
+author: Retromanc3r
+email: retromanc3r@outlook.com
+url: https://retromanc3r.github.io
+baseurl: /
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+paginate: 5
