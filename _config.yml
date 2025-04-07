@@ -1,9 +1,9 @@
-title: Retromanc3r's Projects
+title: Special Projects
 description: A showcase of embedded systems, cryptography, and hardware hacking projects.
 remote_theme: "dracula/gh-pages"
-author: Retromanc3r
+author: retromanc3r
 email: retromanc3r@outlook.com
-url: https://retromanc3r.github.io
+url: https://retromanc3r.github.io/retromanc3r/
 baseurl: /
 markdown: kramdown
 highlighter: rouge
